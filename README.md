@@ -3,3 +3,4 @@ git push
 git pull
 git branch
 pull request
+git commit
